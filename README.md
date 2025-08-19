@@ -1,12 +1,27 @@
-# my-goproject
+<h1 align="center">
+  <img src="https://go.dev/images/go-logo-blue.svg" alt="Go Logo" width="120"/>
+  <br/>
+  my-goproject
+</h1>
 
-Project ini adalah project dasar menggunakan **Golang** untuk mempelajari struktur project, cara kompilasi, dan eksekusi program Go.  
+<p align="center">
+  🚀 Project dasar untuk belajar <b>Golang</b>.  
+  Sederhana, clean, dan mudah dikembangkan.  
+</p>
 
-## 📌 Persyaratan
-Sebelum menjalankan project ini, pastikan kamu sudah menginstal:
-- [Go](https://go.dev/dl/) (versi terbaru direkomendasikan)
-- Git (opsional, untuk clone repo)
+---
 
-Cek versi Go dengan:
+## ✨ Fitur
+- Struktur project Go yang simpel
+- Mendukung `go run` dan `go build`
+- Bisa dikembangkan untuk API, CLI, atau web service
+
+---
+
+## 📦 Persyaratan
+- [Go](https://go.dev/dl/) versi terbaru  
+- Git (opsional, untuk clone repository)  
+
+Cek versi Go:
 ```bash
 go version

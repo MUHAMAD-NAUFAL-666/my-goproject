@@ -25,3 +25,19 @@
 Cek versi Go:
 ```bash
 go version
+```
+
+Cara menjalankan:
+
+```bash
+git clone https://github.com/username/my-goproject.git
+cd my-goproject
+```
+
+```bash
+go mod init my-goproject
+```
+
+```bash
+go run main.go
+```
